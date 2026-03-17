@@ -52,4 +52,4 @@ Para este projeto, foram definidos os seguintes níveis de cobertura:
 * **Markdown:** Formatação da documentação técnica.
 
 ---
-**Dica de QA:** Este projeto demonstra a mentalidade *Shift-Left*, onde a qualidade é pensada antes mesmo do início do desenvolvimento do código.
+Este projeto usa a mentalidade *Shift-Left*, onde a qualidade é pensada antes mesmo do início do desenvolvimento do código.

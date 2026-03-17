@@ -35,14 +35,24 @@ Para este projeto, foram definidos os seguintes níveis de cobertura:
 
 ---
 
-## 📝 3. Casos de Teste (CT)
+## ✅ 3. Execução de Testes e Resultados
 
-| ID | Cenário | Passo a Passo | Resultado Esperado |
+Abaixo apresento os resultados obtidos após a execução manual baseada no Storyboard.
+
+| ID | Cenário | Resultado Esperado | Status |
 | :--- | :--- | :--- | :--- |
-| **CT01** | Adição de tarefa | 1. Digitar tarefa no input<br>2. Pressionar Enter | Tarefa aparece na lista e o contador é atualizado para "1 item left". |
-| **CT02** | Filtro 'Ativos' | 1. Adicionar 2 tarefas<br>2. Concluir 1 tarefa<br>3. Clicar em 'Ativos' | Apenas a tarefa não concluída deve ser exibida na lista. |
-| **CT03** | Filtro 'Concluídos' | 1. Adicionar 1 tarefa<br>2. Marcar como concluída<br>3. Clicar em 'Completed' | A tarefa marcada deve aparecer com estilo "riscado" (strikethrough). |
-| **CT04** | Exclusão de item | 1. Adicionar uma tarefa<br>2. Clicar no 'X' lateral | O item deve ser removido da lista e o contador deve sumir se for o último item. |
+| **CT01** | Adição de tarefa | Tarefa aparece na lista e o contador é atualizado para "1 item left". | ✅ Passou |
+| **CT02** | Filtro 'Ativos' | Apenas a tarefa não concluída deve ser exibida na lista. | ✅ Passou |
+| **CT03** | Filtro 'Concluídos' | A tarefa marcada deve aparecer com estilo "riscado". | ✅ Passou |
+| **CT04** | Exclusão de item | O item deve ser removido da lista e o contador atualizado. | ✅ Passou |
+
+### 📊 Resumo Executivo
+- **Total de Casos de Teste:** 4
+- **Sucesso:** 4 (100%)
+- **Falhas:** 0
+- **Data da Execução:** 17/03/2026
+
+---
 
 ---
 

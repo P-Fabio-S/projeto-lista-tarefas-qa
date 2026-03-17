@@ -19,7 +19,7 @@ Abaixo, a jornada do usuário mapeada no Miro, detalhando as funcionalidades pri
 
 ### Validação de Filtros
 ![Todos os itens](./todos-os-itens.png)
-![Filtros Ativos](./Validar-filters-ativos.png)
+![Filtros Ativos](./Validar-filtros-ativos.png)
 ![Filtros Concluídos](./Validar-filtros-concluidos.png)
 
 ---
